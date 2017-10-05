@@ -5,10 +5,6 @@
 * Author: Patrick Skinner
 * Version: 0.1
 *
-* This is a module which serves as a virtual ramdisk which disk size is
-* limited by the amount of memory available and serves as the requirement for
-* COSC440 assignment 1 in 2012.
-*
 * Note: multiple devices and concurrent modules are not supported in this
 *       version.
 */
